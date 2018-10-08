@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 13 12:12:31 ICT 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1534137151274
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-data-jpa\:pom\:1.5.15.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connect timed out
